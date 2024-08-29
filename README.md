@@ -12,3 +12,4 @@ Touchdown “Snap”: Specify the filter length (variable snapFilterLength), the
 Touchdown “Hard”: Specify the data length (variable hardLength).
 Touchdown “Manual”: Specify the two intersection regions (variables ma1 to ma4).
 3.	The notebook will produce a file named G.dat containing the complex shear modulus as a function of frequency.
+4.	The provided example_force_file can be used to determine the complex frequency dependent rheological behavior from the measured data by employing the provided code. 
